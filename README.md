@@ -46,10 +46,9 @@ FaceRecognitionProject/
 
 Installation & Setup:-
 1. Clone Repository
-git clone https://github.com/YOUR-USERNAME/FaceRecognitionProject.git
 
-2️. Navigate to Project Folder
-cd FaceRecognitionProject
+2️. Navigate to code file 
+main.py
 
 3️. Install Dependencies
 pip install -r requirements.txt
