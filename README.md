@@ -73,6 +73,10 @@ Detects names/images' path from given data by the user
 Matches faces with trained dataset
 Displays recognized person's selected type of image/image path
 
+<img width="1746" height="1001" alt="Screenshot 2026-05-06 050949" src="https://github.com/user-attachments/assets/ac58c726-ac2f-4223-958e-373b7ceb03bd" />
+<img width="1780" height="1005" alt="Screenshot 2026-05-06 051244" src="https://github.com/user-attachments/assets/4a0d93f5-10b2-4b2e-97df-6df0e00ed3d2" />
+
+
 
 
 Applications:-
