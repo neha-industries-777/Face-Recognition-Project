@@ -1,0 +1,7 @@
+Must have:- (required libraries in python)
+
+opencv-python
+numpy
+scikit-learn
+matplotlib
+python interpreter
